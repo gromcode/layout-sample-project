@@ -1,8 +1,8 @@
 # Layout Sample Project
 
-### [Site link]()
+### [Site link](https://gromcode.github.io/layout-sample-project/)
 
-Site supports mobile (up-to-400) and desktop (up-to-1360) versions
+Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 
 ### The tech stack is:
 
